@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 300px) {
+  p {
+    color:blue;
+  }
+}
+
+.display {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row-100percent {
+  width: 100%;
+  border: red 1px solid;
+}
+
+.col-1 {
+  width: 8.33%;
+  border: red 1px solid;
+}
+
+.col-2 {
+  width: 16.67%;
+  border: red 1px solid;
+}
+
+.col-3 {
+  width: 25%;
+  border: red 1px solid;
+}
+
+.col-4 {
+  width: 33.33%;
+  border: red 1px solid;
+}
+
+.col-5 {
+  width: 41.67%;
+  border: red 1px solid;
+}
+
+.col-6 {
+  width: 50%;
+  border: red 1px solid;
+}
+
+.col-7 {
+  width: 58.33%;
+  border: red 1px solid;
+}
+
+.col-8 {
+  width: 66.67%;
+  border: red 1px solid;
+}
+
+.col-9 {
+  width: 75%;
+  border: red 1px solid;
+}
+
+.col-10 {
+  width: 83.33%;
+  border: red 1px solid;
+}
+
+.col-11 {
+  width: 91.67%;
+  border: red 1px solid;
+}
+
+.col-12 {
+  width: 100%;
+  border: red 1px solid;
+}
+
+.min-width {
+  min-width: 600px;
+}
