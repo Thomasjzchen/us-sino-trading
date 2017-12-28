@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 2000px) {
   p {
     color:blue;
   }
